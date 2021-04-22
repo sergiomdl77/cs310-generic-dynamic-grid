@@ -14,7 +14,6 @@
  
 public interface Combiner<A,B,C>
 {
-
 	/**
 	 * Combine two operands and return the combination result.
 	 * @param operand1 first operand, must be of type A
