@@ -12,7 +12,8 @@
  * Fall 2018
  */
  
-public interface Combiner<A,B,C>{
+public interface Combiner<A,B,C>
+{
 
 	/**
 	 * Combine two operands and return the combination result.
